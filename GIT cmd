@@ -1,0 +1,23 @@
+****How to depoly Local Repository to GitHub Repository***
+
+1) Install Git using "git-scm.com"
+
+2) Right Click the local repository goto "Gitbase Here"
+
+=========> Command of Git
+
+3) git init (for making local folder into repository)
+
+4) git status (for checking status {files})
+
+5) git add -A (for making files trackable {watch})
+
+6) git config --global user.name "User name"
+
+7) git config --global user.email "User email"
+
+8) git commit -m "Commit here about the work"
+
+9) git remote add origin (add link)
+
+10) git push -u origin master
