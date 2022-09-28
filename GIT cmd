@@ -20,4 +20,7 @@
 
 9) git remote add origin (add link)
 
-10) git push -u origin master
+10) git push -u -f origin master
+
+~~~~~~~~~~~***** Get files from github repository to local ****~~~~~~~~~~~~~~~
+11) git pull origin
