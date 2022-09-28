@@ -65,15 +65,14 @@ The key's randomart image is:
 +----[SHA256]-----+
 
 then run 
-5) Shahbaz@Shahbaz MINGW64 ~
-6)$ cat /c/Users/Shahbaz/.ssh/id_rsa.pub
+5) ~$ cat /c/Users/Shahbaz/.ssh/id_rsa.pub
 
 then key will generate.
 
 ***************Adding SSH key to your GitHub account *************
-7) Goto your GitHub Account -> Settings
-8) Then look for SSH and GPG keys under **Account Settings -> SSH and GPG keys 
-9) After that click on New SSH Key. Assign some meaningful name to your key
+6) Goto your GitHub Account -> Settings
+7) Then look for SSH and GPG keys under **Account Settings -> SSH and GPG keys 
+8) After that click on New SSH Key. Assign some meaningful name to your key
 
 
 
