@@ -77,3 +77,31 @@ then key will generate.
 
 
 
+*************** If the file is more larger then follow the instrunctions *************
+How to upload large files to GitHub repository?
+
+Step 01: Download link:- https://git-scm.com/downloads
+
+Step 02: Download link: https://git-lfs.github.com/
+
+Step 03: Now clone your GitHub repository to your local machine. First go to your repository and copy the ‘clone/download’ URL.
+
+Step 04: $ git clone link you copied
+Eg:- $ git clone https://github.com/Newuser/NewRepository.git
+
+Step 04: $ git lfs track “.fileextension”
+Eg: If I want to upload a pdf file, then
+
+$ git lfs track “.pdf”
+
+Step 05: $ git add filename.fileextension
+Eg:- $ git add TheGuid.pdf
+
+Step 06:  $ git config --global user.email “you@example.com”
+
+Step 07: $ git config --global user.name “your name”
+
+Step 08:  $ git commit -m "commit message"
+
+Step 09: $ git push origin master
+
