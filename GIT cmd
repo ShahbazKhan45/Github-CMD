@@ -7,23 +7,27 @@
 =========> Command of Git
 
 3) git init (for making local folder into repository)
+   
+4)  git add README.md
+   
+5) git status (for checking status {files})
 
-4) git status (for checking status {files})
+6) git add -A (for making files trackable {watch})
 
-5) git add -A (for making files trackable {watch})
+7) git config --global user.name "User name"
 
-6) git config --global user.name "User name"
+8) git config --global user.email "User email"
 
-7) git config --global user.email "User email"
+9) git commit -m "Commit here about the work"
+  
+  git branch -M main
+  
+10) git remote add origin (add link)
 
-8) git commit -m "Commit here about the work"
-
-9) git remote add origin (add link)
-
-10) git push -u -f origin master
+11) git push -u -f origin master
 
 ~~~~~~~~~~~***** Get files from github repository to local ****~~~~~~~~~~~~~~~
-11) git pull origin
+12) git pull origin
 
 
 ~~~~~~~~~~~***** Error Occur During Clone or Pushing into the repository  ****~~~~~~~~~~~~~~~
