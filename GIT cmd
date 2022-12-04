@@ -6,6 +6,10 @@
 
 =========> Command of Git
 
+//If React's Project 
+ ==> npm install gh-pages --save-dev
+ //After above command use the following cmds:
+
 3) git init (for making local folder into repository)
    
 4)  git add README.md
