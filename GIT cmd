@@ -113,3 +113,20 @@ Step 08:  $ git commit -m "commit message"
 
 Step 09: $ git push origin master
 
+
+
+
+
+
+//**************************************************//
+
+VS Code setting for 
+{
+    "workbench.colorTheme": "Default Dark+",
+    "files.autoSave": "afterDelay",
+    "php.validate.executablePath": "D:\\xampp\\php\\php.exe",
+    "html.format.templating": true,
+    "git.autofetch": true,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "workbench.iconTheme": "material-icon-theme"
+}
